@@ -1,0 +1,116 @@
+#page {
+	width:800px;
+	border:4px solid #dddddd;
+	margin:30px auto 0 auto;
+	padding:20px;
+	border-radius:10px;
+	position:relative;
+    background-color: antiquewhite
+}
+
+#entete {
+	width:100%;
+	text-align:center;
+	height:65px;
+	margin-top:30px auto 0 auto;
+	font-size:32px;
+	background-image: url('logo-iutcv.png');
+	background-size:auto 65px;
+	background-repeat:no-repeat;
+	font-family:"Times New Roman"
+}
+
+#biographie {
+	width:100%;
+	height:135px;
+	margin-bottom:30px;
+}
+
+#presentation {
+    font-family:"Maven Pro";
+	padding-bottom:5px;
+	padding-top:10px;
+	font-size:15px;
+}
+
+#nom {
+	font-family:"Maven Pro";
+	font-size:20px;
+	padding-bottom:5px;
+	padding-top:10px;	
+}
+		
+#position {
+	padding-bottom:15px;
+}
+		
+#age {
+			
+}
+		
+#courriel {
+			
+}
+		
+#photo {
+	height:120px;
+	width:100px;
+	float:right;		
+}
+	
+#details {
+	width:100%;
+	height:210px;
+	padding-bottom:30px;	
+}
+
+ul {
+	list-style-type:none;
+    margin:0;
+	padding:0;
+	line-height:48px;
+}
+
+a {
+	text-decoration:none;
+	color:blue;
+}
+
+#contactez-moi {
+	bottom:px;
+	position:absolute;
+	color:orange;
+}
+
+#items {
+	width:20%;
+	font-size:140%;
+	line-height:48px;
+	float:left;
+}
+
+#cadre {
+	width:75%;
+	height:100%;
+	padding:10px;
+	float:right;
+	border:1px solid gray;
+	border-radius: 0px 0px 10px 0px;
+}
+
+iframe {
+	width:100%;
+	height:100%;
+	border:0;
+}
+
+.colonne1 {
+	vertical-align: top;
+	padding-right: 5px;
+	white-space: nowrap;
+	text-align: right;
+	font-weight: bold;
+	color: #777;
+	width: 0%;
+}
+
